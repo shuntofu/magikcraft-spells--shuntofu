@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function remember() {
+function remember(name) {
     const here = magik.hic();
-    magik.memento.setItem('save',here);
+    magik.memento.setItem(name,here);
 }
