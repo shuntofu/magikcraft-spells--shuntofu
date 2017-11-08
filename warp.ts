@@ -1,7 +1,7 @@
 const magik = magikcraft.io;
 
-function warp() {
-    const there = magik.memento.getItem('save');
+function warp(name) {
+    const there = magik.memento.getItem(name);
     if (there) {
         magik.ianuae(there);
     } else {
