@@ -6,6 +6,6 @@ function warp() {
         magik.ianuae(there);
     } else {
         const here = magik.hic();
-        magik.memento(here);
+        magik.memento.setItem('auto',here);
     }	
 }
