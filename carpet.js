@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function magik_carpet() {
+function carpet() {
     magik.declaro('elytra');
 }
