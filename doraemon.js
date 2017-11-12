@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
-function carpet() {
+function doraemon() {
     magik.declaro('elytra');
 }
