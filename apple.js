@@ -8,4 +8,5 @@ function apple() {
         magik.satio();
         magik.satio();
     }
+    magik.dixit(`many apples!!!`)
 }
