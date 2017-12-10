@@ -1,5 +1,6 @@
 const magik = magikcraft.io;
 
 function volcano() {
-   const there = magik.infierno(5);
+        magik.doNTimes(function(){ 
+         magik.infierno();}, 10, 10);
 }
