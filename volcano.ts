@@ -1,6 +1,5 @@
 const magik = magikcraft.io;
 
 function volcano() {
-    magik.infierno();
-    
+   const there = magik.infierno(5);
 }
